@@ -1,5 +1,9 @@
 ### Hi there 👋
+I am just starting (waaaay behind the rest of the world) to use Github.
+So, to start, I´m using this repo to learn about github mechanics and also to help me learn on Python+AI.
+Later on I may think on collaboration, but first things first!
 
+Slava Ukraini!
 <!--
 **pizza-ni/pizza-ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
